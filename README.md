@@ -1,2 +1,2 @@
 # Face-Recognition-with-Raspberry-pi
-A python Face Recognition model using Haar Cascades
+A Raspberry pi Face Recognition model on live video using Haar Cascades.
